@@ -2,7 +2,7 @@
 This repository contains the smart contract that forms the backend of Pollaris, Follow My Vote's blockchain-based polling system.
 
 ## Building
-Building the Pollaris smart contract requires a suitable build environment.  Instructions for creating such a build environment can be found [here](https://github.com/dapp-protocols/Blockchain-Abstraction-Layer/blob/0a9858fced898adcf77ccd53869cab6e01454c57/DevEnv.md).
+Building the Pollaris smart contract requires a suitable build environment.  Instructions for creating such a build environment can be found [here](https://github.com/FollowMyVote/Blockchain-Abstraction-Layer/blob/main/DevEnv.md).
 
 ### Build Instructions
 The contract is built using CMake, and will build for Leap if the Leap CDT is found by CMake.
